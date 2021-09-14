@@ -16,7 +16,7 @@ namespace StatePattern_SmartphoneApp
             phone.Call();
             phone.PickUp();
             phone.PutOnHold();
-            phone.RemoveFromHold();
+            phone.RemoveFromHold(); 
             phone.PutOnHold();
             phone.HangUp();
 
